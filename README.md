@@ -77,7 +77,6 @@ Built an interactive Power BI dashboard including:
 * 📈 Readmission by Age Group
 * 📉 Readmission vs Total Visits
 * 🔁 High Utilization Analysis
-* 🥧 Readmission Distribution (Pie Chart)
 * 🎛️ Slicers:
 
   * Age Group
